@@ -1,0 +1,15 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "us-west.minexmr.com:443",
+            "user": "425zE5TE7BVDpp5KFTiv5BS9zRcGyViEcMteoprGs15xRf7TtNzXa1ATTMAmXQzwmTKDF3GgoAidNXSRXF4ftV8g2KDcDEu",
+            "rig-id": "lips001",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
